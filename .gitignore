@@ -1,1 +1,9 @@
 .DS_Store
+.venv/
+.env
+.cache/
+__pycache__/
+*.pyc
+# inputs and outputs may contain private/watermarked material
+input/
+output/
