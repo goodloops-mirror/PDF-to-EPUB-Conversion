@@ -4,6 +4,8 @@ All notable changes to this project are documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/), versioning follows [SemVer](https://semver.org/).
 
 ## [Unreleased]
+### Added
+- Buy Me a Coffee link in `README.md`.
 
 ## [0.2.1] - 2026-10-31
 ### Added

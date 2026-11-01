@@ -54,6 +54,11 @@ See [docs/HOW_IT_WORKS.md](docs/HOW_IT_WORKS.md).
 
 [SemVer](https://semver.org/); see [CHANGELOG.md](CHANGELOG.md).
 
+## Support
+
+If this tool saves you time, you can [buy me a coffee](https://www.buymeacoffee.com/hanshafner) ☕. It is optional;
+the code stays free under the license above.
+
 ## License
 
 Copyleft, GNU AGPL-3.0-or-later (see `LICENSE`). This matches the license of the PyMuPDF
